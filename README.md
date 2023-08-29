@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,python,js,html,css,sqlite,postgres,tailwind,bootstrap,github,linux,swagger,redoc,postman,celery,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,python,js,html,css,sqlite,postgres,tailwind,bootstrap,github,linux,django,postman,celery,rabbitmq" />
   </a>
 </p>
