@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,django,postgres,drf)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,python,django,fastapi,postgres,sqlite,heroku,docker,linux,postman,rabbitmq,vscode,atom,powershell)](https://skillicons.dev)
 
 
 **Musabekisakov3301/Musabekisakov3301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
